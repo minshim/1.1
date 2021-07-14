@@ -9,13 +9,15 @@ header{
 	background-color: orange;
 	text-align: center;
 	padding-top: 50px;
-	padding-bottom: 50px;
-	
+	padding-bottom: 50px;	
 }
 
 h1, h2{
 	font-family: 'Open Sans Condensed', sans-serif;
 }
+
+/*header styles */
+/*write your comment here*/
 
 header h1{
 	color: black; 
